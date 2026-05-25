@@ -73,9 +73,9 @@ This work is released under [CC BY 4.0](https://creativecommons.org/licenses/by/
 ## How to Cite
 
 ```bibtex
-@misc{sherpa2026rtf,
+@misc{Dickherber-2026rtf,
   title={Relational Theory Formalism v5.1: A Scaffold for Emergent Agency in Directed Networks},
-  author={Sherpa, Chris B. B.},
+  author={Dickherber, Christopher Michael},
   year={2026},
   howpublished={\url{https://github.com/cbbsherpa/rtf}}
 }
