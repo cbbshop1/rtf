@@ -2,7 +2,7 @@
 
 *A Scaffold for Emergent Agency in Directed Networks*
 
-**Chris B. B. Sherpa** · 2026
+**Christopher Michael Dickherber** · 2026
 
 ---
 
