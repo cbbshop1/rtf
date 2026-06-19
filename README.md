@@ -1,4 +1,4 @@
-# Relational Theory Formalism (RTF) v5.1
+# Relational Theory Framework (RTF) v5.1
 
 *A Scaffold for Emergent Agency in Directed Networks*
 
